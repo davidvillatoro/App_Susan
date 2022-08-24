@@ -16,7 +16,7 @@ export const Cancion2 = () => {
       <div className='player-wrapper'>
             <ReactPlayer
               className='react-player'
-              url='https://www.youtube.com/watch?v=poEtVoa7a-4' controls loop
+              url='https://youtu.be/xFutjZEBTXs' controls loop
               width='80%'
               height='65%'
             />
