@@ -1,5 +1,5 @@
 import React from 'react'
-import './portada.css'
+
 
 export const Portada = () => {
   return (

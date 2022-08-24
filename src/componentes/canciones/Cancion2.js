@@ -1,6 +1,6 @@
 import React from 'react';
 import  ReactPlayer  from  'react-player/youtube' ;
-import "./cancione.css"
+
 
 
 export const Cancion2 = () => {
